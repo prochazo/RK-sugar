@@ -1,0 +1,108 @@
+body {
+    margin: 0;
+}
+
+.wrapper {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+
+.navigation {
+    position: fixed;
+    width: 100%;
+
+    font-size: 0;
+    color: white;
+    font-family: "Fira Sans" , sans-serif;
+    font-weight: 300;
+    
+    background: #D09F74;
+}
+    
+    .navigation a {
+        color: inherit; 
+        cursor: pointer;
+    }
+
+    .navigation__item {
+        display: inline-block;
+        position: relative;
+        width: 20%;
+        padding: 28px 0px;
+        margin: 0;
+
+        
+        font-size: 24px;
+        text-align: center;
+        font-family: "Segoe UI", sans-serif;
+        text-decoration: none;
+
+        cursor: default;
+    }
+
+        .navigation__item:hover {
+            background: #C58751;
+        }
+
+        .navigation__item--active:after {
+            content: "";
+            display: block;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 8px;
+
+            background-color: #AF6020;
+        }
+
+    .navigation__context {
+        position: absolute;
+        display: none; 
+        left: 0; 
+        top: 100%;
+        padding: 0;
+        margin: 0;
+        width: 100%;
+
+        list-style: none;
+    }
+        
+        .navigation__item:hover .navigation__context {
+            display: block;
+        }
+
+        .navigation__context__item {
+            display: block;
+            padding: 10px; 
+
+            text-decoration: none;
+            font-size: 20px;
+
+            background: #C58751;
+        }
+
+            .navigation__context__item:hover {
+                background: #D09F74;
+            }
+
+.grid {
+    font-size: 0;
+    background: green;
+}
+
+    .grid__item {
+        display: inline-block; 
+        padding: 20px 0;
+        width: 50%;
+        margin: 0;
+        -webkit-box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        box-sizing: border-box;
+
+        font-size: 16px;
+
+
+        border: 10px solid black;
+    }
