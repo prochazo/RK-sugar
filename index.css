@@ -1,3 +1,23 @@
 #sec1 {
     background: cornflowerblue;
+    padding: 100px 0;
+}
+
+    #sec1 h1 {
+        color: white;
+        font-size: 24px;
+    }
+
+    #sec1 p {
+        color: white;
+        font-size: 18px;
+    }
+
+#sec2 {
+    height: 200px;
+    background-image: url("https://images.unsplash.com/photo-1451303688941-9e06d4b1277a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=59edb7974cdcc37b973c35b24855b93b");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
 }

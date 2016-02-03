@@ -2,6 +2,21 @@ body {
     margin: 0;
 }
 
+h1 {
+    text-align: center;
+    font-family: "Fira Sans" , sans serif;
+    font-weight: 400;
+    margin: 10px;
+}
+
+p {
+    text-align: justify;
+    font-family: "Fira Sans" , sans serif;
+    font-weight: 300;
+    margin: 10px;
+
+}
+
 .wrapper {
     width: 1000px;
     margin: 0 auto;
@@ -89,20 +104,18 @@ body {
 
 .grid {
     font-size: 0;
-    background: green;
 }
 
     .grid__item {
         display: inline-block; 
-        padding: 20px 0;
+        padding: 20px;
         width: 50%;
         margin: 0;
         -webkit-box-sizing: border-box;
         -moz-box-sizing: border-box;
         box-sizing: border-box;
+        vertical-align: top;
 
         font-size: 16px;
 
-
-        border: 10px solid black;
     }
