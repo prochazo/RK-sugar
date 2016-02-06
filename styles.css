@@ -10,11 +10,21 @@ h1 {
 }
 
 p {
-    text-align: justify;
+    text-align: center;
     font-family: "Fira Sans" , sans serif;
     font-weight: 300;
     margin: 10px;
 
+}
+
+li {
+    font-family: "Fira Sans" , sans serif;
+    font-weight: 300;
+    margin: 10px;
+}
+
+ul {
+    margin: 0;
 }
 
 .wrapper {
@@ -119,3 +129,8 @@ p {
         font-size: 16px;
 
     }
+
+    .grid__item p {
+        text-align: justify;
+    }
+
