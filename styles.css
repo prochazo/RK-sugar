@@ -9,6 +9,12 @@ h1 {
     margin: 10px;
 }
 
+h2 {
+    text-align: center;
+    font-family: "Fira Sans" , sans serif;
+    font-weight: 400;
+}
+
 p {
     text-align: center;
     font-family: "Fira Sans" , sans serif;
@@ -25,6 +31,15 @@ li {
 
 ul {
     margin: 0;
+    font-family: "Fira Sans" , sans serif;
+    font-weight: 300;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 10px;
 }
 
 .wrapper {
@@ -104,6 +119,7 @@ ul {
 
             text-decoration: none;
             font-size: 20px;
+            text-align: left;
 
             background: #C58751;
         }
@@ -129,8 +145,5 @@ ul {
         font-size: 16px;
 
     }
-
-    .grid__item p {
-        text-align: justify;
-    }
+    
 

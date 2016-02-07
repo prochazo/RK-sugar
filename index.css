@@ -23,7 +23,7 @@
 }
 
 #sec3 {
-    padding: 100px 0;
+    padding: 75px 0;
     background: #F7F34B;
 }
     #sec3 h1 {
@@ -31,9 +31,31 @@
         font-size: 24px;
     }
 
+    #sec3 h2 {
+        color: black;
+        font-size: 35px;
+    }
+
     #sec3 p {
         color: black;
         font-size: 18px;
 
-        
+        text-align: justify;
     }
+
+#kontakty {
+    background-color: cornflowerblue;
+
+    text-align: center;
+}
+    #kontakty h2 {
+        padding: 20px 0;
+        margin: 0;
+    }
+
+#zbytek {
+    background-color: purple;
+    font-size: 24px;
+
+    text-align: center;
+}
