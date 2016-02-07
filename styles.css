@@ -146,4 +146,9 @@ img {
 
     }
     
-
+.font {
+    font-size: 0;
+    color: white;
+    font-family: "Fira Sans" , sans-serif;
+    font-weight: 300; 
+}
