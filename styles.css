@@ -26,13 +26,15 @@ p {
 li {
     font-family: "Fira Sans" , sans serif;
     font-weight: 300;
-    margin: 10px;
+    margin: 5px;
+    font-size: 18px;
 }
 
 ul {
     margin: 0;
     font-family: "Fira Sans" , sans serif;
     font-weight: 300;
+    font-size: 18px;
 }
 
 img {
@@ -41,6 +43,12 @@ img {
     float: left;
     margin: 10px;
 }
+
+table {
+    text-align: center;
+    border-color: red;
+
+} 
 
 .wrapper {
     width: 1000px;
