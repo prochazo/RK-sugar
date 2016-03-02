@@ -1,0 +1,17 @@
+#kontakty {
+    background-color: #EEEEEE;
+
+    text-align: center;
+}
+    #kontakty h2 {
+        padding: 20px 0;
+        margin: 0;
+    }
+
+#zbytek {
+    background-color: purple;
+    font-size: 24px;
+
+    text-align: center;
+    padding: 50px;
+}

@@ -1,15 +1,15 @@
 #sec1 {
-    background: cornflowerblue;
+    background: #EEEEEE;
     padding: 100px 0;
 }
 
     #sec1 h1 {
-        color: white;
+        color: black;
         font-size: 24px;
     }
 
     #sec1 p {
-        color: white;
+        color: black;
         font-size: 18px;
     }
 
@@ -24,7 +24,7 @@
 
 #sec3 {
     padding: 75px 0;
-    background: #F7F34B;
+    background: #EEEEEE;
 }
     #sec3 h1 {
         color: black;
@@ -43,20 +43,3 @@
         text-align: justify;
     }
 
-#kontakty {
-    background-color: cornflowerblue;
-
-    text-align: center;
-}
-    #kontakty h2 {
-        padding: 20px 0;
-        margin: 0;
-    }
-
-#zbytek {
-    background-color: purple;
-    font-size: 24px;
-
-    text-align: center;
-    padding: 50px;
-}

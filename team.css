@@ -1,0 +1,37 @@
+.team {
+    display: flex;
+    flex-wrap: wrap;
+}
+    .team__card {  
+        background: #E6E6E6;
+        box-shadow: 0 0 5px 0px rgba(0, 0, 0, 0.3);
+    }
+        .team__card__wraper {
+            width: 50%;
+            margin: 0px;
+            box-sizing: border-box;
+            padding: 10px;
+
+        }
+        .team__card__head {
+            display: flex;
+            position: relative;
+        }
+
+        .team__card__img {
+            width: 100px;
+            height: 100px;
+            margin: 10px;
+            background: #444;
+            border-radius: 50%;
+        }
+        .team__card__title {
+            flex: 1;
+        }
+        .team__card__details-button {
+            width: 50px;
+            display: block;
+            border: none;
+            background: #444;
+
+        }
