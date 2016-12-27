@@ -3,7 +3,12 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(blue,red);
+
+    background-image: url("IMG_0297.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    background-size: cover;
 
 }
     .landing__content {
@@ -14,7 +19,7 @@
             margin: 0;
             margin-bottom: 20px;
             font-family: "Fira Sans" , sans serif;
-            font-size: 40px;
+            font-size: 70px;
             color: #555;
         }
         .landing__content h2 {
@@ -32,6 +37,10 @@
 
     #sec1 h1 {
         color: black;
+        font-size: 40px;
+    }
+    #sec1 h2 {
+        color: black;
         font-size: 24px;
     }
 
@@ -42,7 +51,7 @@
 
 #sec2 {
     height: 200px;
-    background-image: url("https://images.unsplash.com/photo-1451303688941-9e06d4b1277a?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=59edb7974cdcc37b973c35b24855b93b");
+    background-image: url("IMG_0328.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;

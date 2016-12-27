@@ -1,3 +1,38 @@
+h1 {
+    font-size: 50px;
+    padding-top: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.landing {
+    min-height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("IMG_0328.jpg");
+
+}
+    .landing__content {
+        margin: 100px 0;
+    }
+
+        .landing__content h1 {
+            margin: 0;
+            margin-bottom: 20px;
+            font-family: "Fira Sans" , sans serif;
+            font-size: 70px;
+            color: #555;
+        }
+        .landing__content h2 {
+            margin: 0;
+            font-family: "Fira Sans" , sans serif;
+            font-size: 30px;
+            color: #555;
+        }
+
 #kontakty {
     background-color: #EEEEEE;
 
@@ -9,7 +44,7 @@
     }
 
 #zbytek {
-    background-color: purple;
+    background-color: #62929E;
     font-size: 24px;
 
     text-align: center;
