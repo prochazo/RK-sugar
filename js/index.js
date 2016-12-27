@@ -2,14 +2,19 @@
 {
     var cards = $(".team__card");
 
-    for (var i = 0; i < cards.length; i++)
+    function initializeCard(card)
     {
-        var button = $(cards[i]).find(".team__card__details-button");
-        var body = $(cards[i]).find(".team__card__body");
+        var button = card.find(".team__card__details-button");
+        var body = card.find(".team__card__body");
 
         button.click(function()
         {
             body.slideToggle(500);
         });
+    }
+
+    for (var i = 0; i < cards.length; i++)
+    {
+        initializeCard($(cards[i]));
     }
 }();
