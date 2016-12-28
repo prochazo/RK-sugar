@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: center;
 
-    background-image: url("IMG_0297.jpg");
+    background-image: url("../assets/IMG_0297.jpg");
     background-position: center;
     background-repeat: no-repeat;
     
@@ -51,7 +51,7 @@
 
 #sec2 {
     height: 200px;
-    background-image: url("IMG_0328.jpg");
+    background-image: url("../assets/IMG_0328.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;

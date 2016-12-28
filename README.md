@@ -8,17 +8,9 @@ Hello there, this is just a simple website we're building and also it serves an 
 
 Following text is gonna be just some tips for prochazo in czech, so for now - see you later.
 
-Poznámky
---------
+Nastartování PHP serveru
+------------------------
 
-### Odkazy na stránku
+Otevřeš PowerShell v kořenové složce a napíšeš:
 
-Opravil jsem ti odkazy přes hashtag, tohle jsi měl dobře: `<a href="#loremipsum">...`, ale ten cíl se nedělá přes `name` atribut, to je HTML 4, v pětce můžeš odkazovat na jakýkoliv element, stačí aby měl id:
-
-    <a href="#lorem-ipsum"></a>
-
-    <div id="lorem-ipsum">
-
-    </div>
-
-Více info na <a href="http://www.w3schools.com/tags/att_a_name.asp">w3schools</a>.
+    php -S localhost:8080
