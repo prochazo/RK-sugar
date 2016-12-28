@@ -2,7 +2,7 @@
 <html lang="cz">
 <head>
     <meta charset="UTF-8">
-    <title>Document</title>
+    <title>RK Cukříček</title>
     <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="assets/icomoon.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">

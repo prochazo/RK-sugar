@@ -1,10 +1,13 @@
 h1 {
     font-size: 50px;
-    padding-top: 10px;
-}
+    }
 
 a {
     text-decoration: none;
+}
+
+.box1 {
+    padding-top:20px;
 }
 
 .landing {

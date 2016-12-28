@@ -13,14 +13,14 @@
         include __DIR__ . "/parts/nav.php";
     ?>
 
-	<H1>Kontakty</H1>
+	
 	<section id="kontakty">
 		<div class="box1">
-			<h2 style="padding: 10px 0 0 0;">Tajemník kurzu</h2>
+			<h2>Tajemník kurzu</h2>
 			<p>Šimon Kimák (ŠÍMA) - simakimak@gmail.com - 724 520 855</p>
-		</div>
+					</div>
 		<div>
-			<h2 style="padding: 10px 0 0 0;">Šéfka týmu:</h2>
+			<h2>Šéfka týmu:</h2>
 			<p>Tereza Koberová (Sňéža) - tereza.koberova@seznam.cz - 723 576 536 </p>
 		</div>
 
