@@ -11,7 +11,10 @@
 </head>
 <body>
     
-    <?php include __DIR__ . "/parts/nav.php" ?>
+    <?php
+        $activeNavItem = "index";
+        include __DIR__ . "/parts/nav.php";
+    ?>
 
     <section class="landing">
         <div class="landing__content">
@@ -50,6 +53,9 @@
 
         </div>
     </section>
+
+    <!-- naviagční cíl pro index.php#tym -->
+    <div id="tym"></div>
     
     <section id="sec2">
         

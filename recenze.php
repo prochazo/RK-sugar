@@ -9,7 +9,10 @@
 </head>
 <body>
     
-    <?php include __DIR__ . "/parts/nav.php" ?>
+    <?php
+        $activeNavItem = "recenze";
+        include __DIR__ . "/parts/nav.php";
+    ?>
 
 	<div class="team__card__wraper">
                     <div class="team__card">

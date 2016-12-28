@@ -8,7 +8,10 @@
 </head>
 <body>
 	
-    <?php include __DIR__ . "/parts/nav.php" ?>
+    <?php
+        $activeNavItem = "kontakty";
+        include __DIR__ . "/parts/nav.php";
+    ?>
 
 	<H1>Kontakty</H1>
 	<section id="kontakty">
