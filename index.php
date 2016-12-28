@@ -99,7 +99,7 @@
                                 <li>ZZA Podlitina (2015)</li>
                                 <li>VLK Quo Vadis (2015) </li>
                             </ul>
-                            <h3>Co si určitě nezapomenu s sebou do Cukřenky přibalit ?</h3>
+                            <h3>Co si s sebou do Cukřenky přibalim?</h3>
                             <p>Špunty do uší, dobrou náladu a hlavně peřinky!<p/>
                             <h3>Motto</h3>
                             <p>Kdo chce jiné zapalovat, musí sám hořet!</p>
@@ -138,7 +138,7 @@
                                 <li>ZZA Podlitina (2015)</li>
                                 <li>VLK Quo Vadis (2015) </li>
                             </ul>
-                            <h3>Co si určitě nezapomenu s sebou do Cukřenky přibalit ?</h3>
+                            <h3>Co si s sebou do Cukřenky přibalim?</h3>
                             <p>To, co mi při balení cvrnkne o nos.<p/>
                             <h3>Motto</h3>
                             <p>Žij naplno (skoro) každý den!</p>
