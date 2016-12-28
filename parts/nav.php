@@ -8,7 +8,10 @@ if (!isset($activeNavItem))
 
 <nav class="navigation">
     <div class="navigation__content">
-        <img class="navigation__picture" src="assets/logo.png">
+
+        <div class="navigation__picture navigation__picture--left">
+            <img src="assets/logo.png">
+        </div>
 
         <a
             class="navigation__item <?php if ($activeNavItem == "index") echo "navigation__item--active"; ?>"
@@ -42,7 +45,9 @@ if (!isset($activeNavItem))
             href="kontakty.php"
         >Kontakty</a>
         
-        <img class="navigation__picture" src="assets/skaut_logo.png"></div>
+        <div class="navigation__picture navigation__picture--right">
+            <img src="assets/skaut_logo.png"></div>
+        </div>
     </div>
 </nav>
 
