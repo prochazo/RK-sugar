@@ -26,13 +26,13 @@ if (!isset($activeNavItem))
         <a
             class="navigation__item"
             href="https://goo.gl/forms/nbXyan5aIKRiPDYT2"
-            target="item_blanc"
+            target="_blank"
         >Přihlášky</a>
 
         <a
             class="navigation__item <?php if ($activeNavItem == "fotogalerie") echo "navigation__item--active"; ?>"
             href="https://www.zonerama.com/RKCukricek"
-            target="item_blanc"
+            target="_blank"
         >Fotogalerie</a>
         
         <a
