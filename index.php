@@ -122,6 +122,7 @@
                                 <span class="icon-info"></span>
                             </button>
                         </div>
+                        <div class="team__card__body">
                         <h3>Baví mě:</h3>
                             <p>Trempování</p>
 
