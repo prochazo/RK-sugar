@@ -8,21 +8,8 @@
     <link rel="stylesheet" type="text/css" href="css/recenze.css">
 </head>
 <body>
-    <nav class="navigation">
-        <div class="wrapper">
-            <a class="navigation__item" href="index">Ročník 2017</a>
-            <a class="navigation__item" href="">Tým</a>
-            <a class="navigation__item" href="https://docs.google.com/forms/d/15hvNajdfMRPFj05xR0hNm8QFofMxw4xd-M-fL0nRU8I/viewform?c=0&w=1">Přihlášky</a>
-            <a class="navigation__item" href="">Fotogalerie</a>
-            <a class="navigation__item" href="recenze.html">Recenze</a>
-            <a class="navigation__item navigation__item--active" href="kontakty.html">Kontakty</a>
-        </div>
-    </nav>
-
-    <div style="height: 88px;"></div>
-
-
-
+    
+    <?php include __DIR__ . "/parts/nav.php" ?>
 
 	<div class="team__card__wraper">
                     <div class="team__card">

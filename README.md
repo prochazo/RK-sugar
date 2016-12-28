@@ -8,6 +8,11 @@ Hello there, this is just a simple website we're building and also it serves an 
 
 Following text is gonna be just some tips for prochazo in czech, so for now - see you later.
 
+Barevné schéma
+--------------
+
+    https://coolors.co/app/393d3f-fdfdff-c6c5b9-62929e-546a7b
+
 Nastartování PHP serveru
 ------------------------
 
