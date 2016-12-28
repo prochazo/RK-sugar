@@ -75,33 +75,34 @@
                                 <img src="assets/IMG_0328.jpg" >
                             </div>
                             <div class="team__card__title">
-                                <h2 class="team__card__title__name">Hana Chalupová</h2>
-                                <div class="team__card__title__nickname">Hanďa</div>
-                                <div class="team__card__title__town">Přelouč</div>
+                                <h2 class="team__card__title__name">Patrik Půlpán</h2>
+                                <div class="team__card__title__nickname">Paťa</div>
+                                <div class="team__card__title__town">Slatiňany</div>
                             </div>
                             <button class="team__card__details-button">
                                 <span class="icon-info"></span>
                             </button>
                         </div>
                         <div class="team__card__body">
-                            <h3>Baví mě</h3>
-                            <p>Skautování, házení létajícím talířem, hraní her a vyhrávání.</p>
+                            <h3>Baví mě:</h3>
+                            <p>Skauting, Organizace akcí, divadlo</p>
 
-                            <h3>Na kurzu mám na starost</h3>
-                            <p>Ještě jsem se neodvážila zeptat.</p>
+                            <h3>Kde se na kurzu potkáme?</h3>
+                            <p>Všude mě je všude plno a hlavně jsem slyšet přes celé tábořiště :)</p>
 
-                            <h3>Co dělám ve skautingu</h3>
-                            <p>Vedu oddíl světlušek v Přelouči, chodím na všelijaké rady a pomáhám tam, kde je zrovna potřeba.</p>
+                            <h3>Pár vět o mně:</h3>
+                            <p>Jsem skaut už 13 let a pořád mě to baví! Jsem vůdce jedné smečky vlčat, motám se kolem vedení jednoho střediska, podílím se realizaci dalších kurzů :) a ještě pár věcí ... Mimo to jsem student a ještě nevím čím bych chtěl v životě být (ale popelářem už ne!) </p>
 
-                            <h3>Skautské vzdělání</h3>
+                            <h3>Skautské vzdělání:</h3>
                             <ul>
-                                <li>ČLK Odyssea 2013</li>
-                                <li>ZZA Červený kříž 2015</li>
-                                <li>VLK Quo Vadis 2015 </li>
+                                <li>ČK Tokaheya (2014)</li>
+                                <li>ZZA Podlitina (2015)</li>
+                                <li>VLK Quo Vadis (2015) </li>
                             </ul>
-
+                            <h3>Co si určitě nezapomenu s sebou do Cukřenky přibalit ?</h3>
+                            <p>Špunty do uší, dobrou náladu a hlavně peřinky!<p/>
                             <h3>Motto</h3>
-                            <p>Žádný pesimista nikdy neobjevil tajemství hvězd, neplavil se do neznámých zemí, ani neobjevil nové obzory lidské duše.</p>
+                            <p>Kdo chce jiné zapalovat, musí sám hořet!</p>
                         </div>
                     </div>
                 </div>
@@ -113,33 +114,33 @@
                                 <img src="assets/IMG_0328.jpg" >
                             </div>
                             <div class="team__card__title">
-                                <h2 class="team__card__title__name">Hana Chalupová</h2>
-                                <div class="team__card__title__nickname">Hanďa</div>
-                                <div class="team__card__title__town">Přelouč</div>
+                                <h2 class="team__card__title__name">Tereza Koberová</h2>
+                                <div class="team__card__title__nickname">Sňéža</div>
+                                <div class="team__card__title__town">Slatiňany</div>
                             </div>
                             <button class="team__card__details-button">
                                 <span class="icon-info"></span>
                             </button>
                         </div>
-                        <div class="team__card__body">
-                            <h3>Baví mě</h3>
-                            <p>Skautování, házení létajícím talířem, hraní her a vyhrávání.</p>
+                        <h3>Baví mě:</h3>
+                            <p>Trempování</p>
 
-                            <h3>Na kurzu mám na starost</h3>
-                            <p>Ještě jsem se neodvážila zeptat.</p>
+                            <h3>Kde se na kurzu potkáme?</h3>
+                            <p>49° 53' 18.0901577" N 15° 46' 10.357132" E</p>
 
-                            <h3>Co dělám ve skautingu</h3>
-                            <p>Vedu oddíl světlušek v Přelouči, chodím na všelijaké rady a pomáhám tam, kde je zrovna potřeba.</p>
+                            <h3>Pár vět o mně:</h3>
+                            <p>Mé jméno už znáte a studuji medicinální chemii (takže si s sebou raději vemte ochutnávače). Skautuju ve Slatiňanech od té doby, co jsem přišla na světlušácký nábor. Prázdniny ráda trávím v přírodě, baví mě objevovat nová místa - v zimě na běžkách, v létě pěšmo.</p>
 
-                            <h3>Skautské vzdělání</h3>
+                            <h3>Skautské vzdělání:</h3>
                             <ul>
-                                <li>ČLK Odyssea 2013</li>
-                                <li>ZZA Červený kříž 2015</li>
-                                <li>VLK Quo Vadis 2015 </li>
+                                <li>ČK Tokaheya (2014)</li>
+                                <li>ZZA Podlitina (2015)</li>
+                                <li>VLK Quo Vadis (2015) </li>
                             </ul>
-
+                            <h3>Co si určitě nezapomenu s sebou do Cukřenky přibalit ?</h3>
+                            <p>To, co mi při balení cvrnkne o nos.<p/>
                             <h3>Motto</h3>
-                            <p>Žádný pesimista nikdy neobjevil tajemství hvězd, neplavil se do neznámých zemí, ani neobjevil nové obzory lidské duše.</p>
+                            <p>Žij naplno (skoro) každý den!</p>
                         </div>
                     </div>
                 </div>
