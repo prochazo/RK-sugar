@@ -18,8 +18,7 @@
 
     <section class="landing">
         <div class="landing__content">
-            <h1></h1>
-            <h2></h2>
+            
         </div>
     </section>
 
@@ -63,7 +62,9 @@
     
     <?php include __DIR__ . "/parts/index/tym.php"; ?>
 
-    <div style="height: 800px"></div>
+    <section id="sec4">
+        
+    </section>
 
     <script src="js/jquery.min.js"></script>
     <script src="js/index.js"></script>
