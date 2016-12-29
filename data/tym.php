@@ -12,7 +12,7 @@ return [
         "name" => "Patrik Půlpán",
         "nickname" => "Paťa",
         "town" => "Slatiňany",
-        "img" => "patrik.png",
+        "img" => "Pata_web.jpg",
 
         "likes" => "Skauting, Organizace akcí, divadlo",
         "meet" => "Všude mě je všude plno a hlavně jsem slyšet přes celé tábořiště :)",
@@ -55,12 +55,13 @@ return [
         "img" => "ondra.png",
 
         "likes" => "",
-        "meet" => "",
-        "about" => "",
+        "meet" => "Tam kde mě budeš hledat",
+        "about" => "Nic ti neřeknu!",
         "education" => [
+        "to nepotřebuju abych tě mohl učit"
         ],
-        "take" => "",
-        "motto" => ""
+        "take" => "počítač, GoPro, a dávku srandy",
+        "motto" => "Kdo nic nedělá nic nezkazí."
     ],
 
     /**
@@ -104,14 +105,14 @@ return [
         "motto" => "Mám taková dvě životní motta, jedno je takové které mě celkem vystihuje a to druhá je takové krásně hlubokomyslné. 1.Zatopíš, uvaříš, pomůžeš, vysvětlíš.  To druhé motto je citát z mé oblíbené knihy: ,,Rozhodovat můžeme jen o tom, co udělat s časem, který nám byl dán... (Gandalf) Společenstvo prstenu"
     ],
 
-      /**
+    /**
      * Sylva
      */
     [
         "name" => "Sylva Coufalová",
         "nickname" => "Syslík",
         "town" => "Kroměříž",
-        "img" => "patrik.png",
+        "img" => "Sylva_web.jpg",
 
         "likes" => "",
         "meet" => "Na kurzu budu hlavně vařit a usmívat se na vás, možná pomůžu s nějakou přednáškou:)",
@@ -121,5 +122,43 @@ return [
         ],
         "take" => "Určitě si vezmu polštář a rukavice, protože u ohně je někdy zima. Jídlo rozhodně ne, protože bych pak neměla místo na to skvělý, co na nás čeká na kurzu! <3",
         "motto" => "\"Jez dokud můžeš, protože nikdy nevíš, kdy budeš jíst příště!:)\""
+    ],
+
+    /**
+     * Mája
+     */
+    [
+        "name" => "Magdaléna Vtípilová",
+        "nickname" => "Mája",
+        "town" => "Kroměříž",
+        "img" => "Maja_web.jpg",
+
+        "likes" => "",
+        "meet" => "Hlavně v kuchyni, občas na nějakém programu a možná i na malé přednášce. ",
+        "about" => "Ahoj všichni! Jsem Mája a svůj volný čas nejraději trávím u nějakého hudebního nástroje. Do našeho oddílu na Dobříši  chodím teď sedmým rokem a momentálně vedu družinku skautek.:) Mám také ráda pečení dobrých věcí a organizaci různých akcí s dětmi. Jen tak mimochodem jsem se Sylvou absolventka 1. ročníku!",
+        "education" => [
+        "2015 RK Cukříček",
+        ],
+        "take" => "Kytaru, zpěvník a vařečku. ",
+        "motto" => "\"Jediná nemožná cesta je ta, na kterou se nikdy nevydáte.\""
+    ],
+
+    /**
+     * Sylva
+     */
+    [
+        "name" => "Lucie Procházková",
+        "nickname" => "Lucka",
+        "town" => "Sobětuchy",
+        "img" => "patrik.png",
+
+        "likes" => "",
+        "meet" => "",
+        "about" => "",
+        "education" => [
+        "2015 RK Cukříček",
+        ],
+        "take" => "",
+        "motto" => ""
     ],
 ];
