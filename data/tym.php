@@ -71,7 +71,7 @@ return [
         "name" => "Přemysl Janda",
         "nickname" => "Přemek",
         "town" => "Slatiňany",
-        "img" => "ondra.png",
+        "img" => "Premek_web.jpg",
 
         "likes" => "",
         "meet" => "To se ještě uvidí, ale jisté je že žádnou rozcvičku nevynechám.",
@@ -91,7 +91,7 @@ return [
         "name" => "Šimon Kimák",
         "nickname" => "Krocan",
         "town" => "Slatiňany",
-        "img" => "ondra.png",
+        "img" => "Krocan_web.jpg",
 
         "likes" => "Skauting, příroda, literatura frisbee, běžky.",
         "meet" => "na přednáškách a občas zaskočím do kurzovní kuchyně (ikdyž teď už jenom ze zvědavosti)",
@@ -111,14 +111,14 @@ return [
     [
         "name" => "Sylva Coufalová",
         "nickname" => "Syslík",
-        "town" => "Kroměříž",
+        "town" => "Dobříš",
         "img" => "Sylva_web.jpg",
 
         "likes" => "",
         "meet" => "Na kurzu budu hlavně vařit a usmívat se na vás, možná pomůžu s nějakou přednáškou:)",
         "about" => "Ahoj, je mi 16 a skautka jsem od svých 8 let. Chodím na gymnázium v Dobříši. Mám ráda skauting, jídlo, internet, Facebook, Instagram, postel, biologii, základy společenských věd, vaření, malování a ráda se procházím :)",
         "education" => [
-        "2015 RK Cukříček",
+        "2015 RK Cukříček","2015 Žirafa střed"
         ],
         "take" => "Určitě si vezmu polštář a rukavice, protože u ohně je někdy zima. Jídlo rozhodně ne, protože bych pak neměla místo na to skvělý, co na nás čeká na kurzu! <3",
         "motto" => "\"Jez dokud můžeš, protože nikdy nevíš, kdy budeš jíst příště!:)\""
@@ -130,7 +130,7 @@ return [
     [
         "name" => "Magdaléna Vtípilová",
         "nickname" => "Mája",
-        "town" => "Kroměříž",
+        "town" => "Dobříš",
         "img" => "Maja_web.jpg",
 
         "likes" => "",
@@ -144,21 +144,21 @@ return [
     ],
 
     /**
-     * Sylva
+     * Lucka
      */
     [
         "name" => "Lucie Procházková",
-        "nickname" => "Lucka",
+        "nickname" => "Lúůca",
         "town" => "Sobětuchy",
-        "img" => "patrik.png",
+        "img" => "lucka_web.png",
 
         "likes" => "",
-        "meet" => "",
-        "about" => "",
+        "meet" => "Tam, kde budu zrovna třeba. ",
+        "about" => "Studuji na gymnáziu. Skautu se věnuji od první třídy a momentálně vedu družinku světlušek.Svůj volný čas nejraději trávím s kamarády někde v přírodě. Hodně se také věnuji hudbě.A jako správný nadšenec se hrnu naprosto do všeho.",
         "education" => [
         "2015 RK Cukříček",
         ],
-        "take" => "",
-        "motto" => ""
+        "take" => "Tunu dobrý nálady a jablko",
+        "motto" => "Když jsi v jiné tonině je na čase změnit písničku"
     ],
 ];

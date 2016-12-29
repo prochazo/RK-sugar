@@ -29,7 +29,7 @@
 	<section id="obrazky">	
 		
 		<div class="rozdeleni">
-			<div style="width: 155px;"></div>
+			<div style="width: 450px;"></div>
 			<a href="https://www.facebook.com/rkcukricek/?fref=ts">
 				<img src="../assets/facebook-apk.png">
 			</a>
@@ -37,7 +37,7 @@
 			<a href="https://www.youtube.com/channel/UCKqj76zoH8lFQ8v3y39pCyw">
 				<img src="../assets/youtube.png">
 			</a>
-			<div style="width: 155px;"></div>
+			
 		</div>
 	</section>
 

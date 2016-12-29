@@ -34,22 +34,33 @@ a {
 }
 
 #obrazky {
-    background-image: url();
+    background-image: url("../assets/logo.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 50% 50%;
+
+
 }
 
 .rozdeleni {
     width: 1000px;
-    margin: 50px auto;
+    height: 250px;
+    margin: 0px auto;
+    padding-top: 200px;
 
-    text-align: center;
+
+    
     display: flex;
     flex-wrap: wrap;
     
 }
 
     .rozdeleni img {
-        
-
+        display: block;
+        flex: 1;
+        position: relative;
+        margin: 0;
         -webkit-filter: grayscale(100%);
         filter: grayscale(100%);
         -webkit-transition: .3s ease-in-out;
