@@ -23,15 +23,24 @@
 			<h2>Šéfka týmu:</h2>
 			<p>Tereza Koberová (Sňéža) - tereza.koberova@seznam.cz - 723 576 536 </p>
 		</div>
+	</section>
 
 
-	<a href="https://www.facebook.com/rkcukricek/?fref=ts">
-	<section class="landing">
-        <div class="landing__content">
-            <h1>Facebook</h1>
-            <h2>Pro nadějné rádce.</h2>
-        </div>
-    </section></a>
+	<section id="obrazky">	
+		
+		<div class="rozdeleni">
+			<div style="width: 155px;"></div>
+			<a href="https://www.facebook.com/rkcukricek/?fref=ts">
+				<img src="../assets/facebook-apk.png">
+			</a>
+			<div style="width: 155px;"></div>
+			<a href="https://www.youtube.com/channel/UCKqj76zoH8lFQ8v3y39pCyw">
+				<img src="../assets/youtube.png">
+			</a>
+			<div style="width: 155px;"></div>
+		</div>
+	</section>
+
 
 	
 	<section id="zbytek">

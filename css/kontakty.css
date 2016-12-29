@@ -10,46 +10,53 @@ a {
     padding-top:20px;
 }
 
-.landing {
-    min-height: 40vh;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    background-image: url("../assets/IMG_0328.jpg");
 
-}
-    .landing__content {
-        margin: 100px 0;
-    }
-
-        .landing__content h1 {
-            margin: 0;
-            margin-bottom: 20px;
-            font-family: "Fira Sans" , sans serif;
-            font-size: 70px;
-            color: #555;
-        }
-        .landing__content h2 {
-            margin: 0;
-            font-family: "Fira Sans" , sans serif;
-            font-size: 30px;
-            color: #555;
-        }
 
 #kontakty {
-    background-color: #EEEEEE;
+    background: #c6c5b9;
+    padding-bottom: 30px;
 
     text-align: center;
 }
     #kontakty h2 {
         padding: 20px 0;
         margin: 0;
+        font-size: 30px;
     }
 
 #zbytek {
     background-color: #62929E;
     font-size: 24px;
 
+    font-family: "Fira Sans" , sans serif;
     text-align: center;
     padding: 50px;
 }
+
+#obrazky {
+    background-image: url();
+}
+
+.rozdeleni {
+    width: 1000px;
+    margin: 50px auto;
+
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+    .rozdeleni img {
+        
+
+        -webkit-filter: grayscale(100%);
+        filter: grayscale(100%);
+        -webkit-transition: .3s ease-in-out;
+        transition: .3s ease-in-out;
+    }
+
+    .rozdeleni img:hover {
+        -webkit-filter: grayscale(0);
+        filter: grayscale(0);
+    }

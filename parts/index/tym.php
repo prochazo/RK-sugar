@@ -35,7 +35,7 @@ $teamMembers = require __DIR__ . "/../../data/tym.php";
                         <div class="team__card__body">
                             <!--
 
-                            <h3>Baví mě:</h3>
+                            <h3>Funkce:</h3>
                             <p><?php echo $member["likes"]; ?></p>
 
                             -->
