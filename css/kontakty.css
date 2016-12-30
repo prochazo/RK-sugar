@@ -6,8 +6,9 @@ a {
     text-decoration: none;
 }
 
-.box1 {
-    padding-top:20px;
+.cukricek {
+    padding-bottom: 20px; 
+    font-size: 24px;
 }
 
 
@@ -38,7 +39,7 @@ a {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 75%;
-    background-position: 25% 60%;
+    background-position: 25% 80%;
 
 
 }

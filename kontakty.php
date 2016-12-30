@@ -15,14 +15,20 @@
 
 	
 	<section id="kontakty">
-		<div class="box1">
-			<h2>Tajemník kurzu</h2>
-			<p>Šimon Kimák (ŠÍMA) - simakimak@gmail.com - 724 520 855</p>
+		<div>
+			<h2>Kontaktujte nás:</h2>
+			<p class="cukricek">cukricek@skaut.cz</p>
 		</div>
 		<div>
 			<h2>Šéfka týmu:</h2>
 			<p>Tereza Koberová (Sňéža) - tereza.koberova@seznam.cz - 723 576 536 </p>
 		</div>
+		<div>
+			<h2>Tajemník kurzu</h2>
+			<p>Šimon Kimák (ŠÍMA) - simakimak@gmail.com - 724 520 855</p>
+		</div>
+		
+
 	</section>
 
 
