@@ -52,16 +52,16 @@ return [
         "name" => "Ondřej Procházka",
         "nickname" => "MR.OP",
         "town" => "Sobětuchy",
-        "img" => "ondra.png",
+        "img" => "ondra_web.jpg",
 
         "likes" => "",
-        "meet" => "Tam kde mě budeš hledat",
-        "about" => "Nic ti neřeknu!",
+        "meet" => "Já budu přesně tam, kde budu potřeba.",
+        "about" => "Ahoj, momentálně jsem studentem maturitního ročníku na gymnáziu. Mezi mé koníčky patří, basketball, natáčení a stříhání videí(jo jestli chceš podívej se na youtube) a taky občas programuju (např. tyto webovky). Ne nedělám si reklamu nene, to se ti jen zdá... :D Skautování je něco člověku hodně dá a proto jsem rád že vznikl tento kurz. ",
         "education" => [
-        "to nepotřebuju abych tě mohl učit"
+            "ČK Tokaheya (2014)"
         ],
-        "take" => "počítač, GoPro, a dávku srandy",
-        "motto" => "Kdo nic nedělá nic nezkazí."
+        "take" => "GoPro a dávku srandy.",
+        "motto" => "Jdi si za svým cílem tak dlouho až ho dosáhneš. Překážky jsou jen od toho aby cesta byla zajímavější."
     ],
 
     /**
@@ -80,7 +80,7 @@ return [
             "2014 ČK Zvostra",
             "2016 ZZA Cukříček", 
         ],
-        "take" => "Nikdy nesmí chybět polštář.Dobrý spánek vždy osladí život.",
+        "take" => "Nikdy nesmí chybět polštář. Dobrý spánek vždy osladí život.",
         "motto" => "Vždycky se to nějak udělá."
     ],
 
@@ -94,14 +94,14 @@ return [
         "img" => "Krocan_web.jpg",
 
         "likes" => "Skauting, příroda, literatura frisbee, běžky.",
-        "meet" => "na přednáškách a občas zaskočím do kurzovní kuchyně (ikdyž teď už jenom ze zvědavosti)",
+        "meet" => "Na přednáškách a občas zaskočím do kurzovní kuchyně (ikdyž teď už jenom ze zvědavosti)",
         "about" => "Jsem Šíma a studuji na gymplu, mám moc rád přírodu a taky mě baví chemie. Rád bych se v budoucnu věnoval studiu přírodních věd, či medicíny.
                     Skautem jsem od první třídy. Už čtyři a půl roku rádcuji u vlčat, a nyní  jsem dokonce i zástupce vůdce oddílu. 
-                    Mezi mé záliby patří fantazi literatura (např: Úžasná Zeměplocha), rád vařím a chodím na dlouhé procházky a nebo jezdím na kole.",
+                    Mezi mé záliby patří fantazi literatura (např: Úžasná Zeměplocha), rád vařím ,chodím na dlouhé procházky a nebo jezdím na kole.",
         "education" => [
-        "2015 ČLK Corda", "2015 ZZA Quo Vadis", "2015 VLK Gong",
+        "2015 ČLK Corda", "2015 ZZA Quo Vadis", "VLK Gong (2016)",
         ],
-        "take" => "dobrou knížku, křesadlo a veselý úsměv",
+        "take" => "Dobrou knížku, křesadlo a veselý úsměv",
         "motto" => "Rozhodovat můžeme jen o tom, co udělat s časem, který nám byl dán...\"(Gandalf)\""
     ],
 

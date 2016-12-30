@@ -1,39 +1,40 @@
-.team {
+.recenze {
     background: #C6C5B9;
 }
 
-    .team__title {
+    .recenze__title {
         padding: 50px 0;
         font-size: 40px;
         margin: 0;
         color: #FDFDFF;
     }
 
-    .team__wrapper {
+    .recenze__wrapper {
         display: flex;
         flex-wrap: wrap;
+        padding-bottom: 100px;
     }
 
-    .team__card {
+    .recenze__card {
         position: relative;
         background: #E6E6E6;
         box-shadow: 0 0 5px 0px rgba(101, 101, 101, 0.3);
         border-radius: 5px;
         overflow: hidden;
     }
-        .team__card__wraper {
+        .recenze__card__wraper {
             width: 100%;
             margin: 0px;
             box-sizing: border-box;
             padding: 10px;
 
         }
-        .team__card__head {
+        .recenze__card__head {
             display: flex;
             position: relative;
         }
 
-        .team__card__img {
+        .recenze__card__img {
             position: relative;
             width: 100px;
             height: 100px;
@@ -42,7 +43,7 @@
             border-radius: 50%;
             overflow: hidden;
         }
-            .team__card__img img {
+            .recenze__card__img img {
                 margin: 0;
                 position: absolute;
                 top: 0%;
@@ -51,11 +52,11 @@
                 height: 100%;
 
             }
-        .team__card__title {
+        .recenze__card__title {
             flex: 1;
             margin: 20px 10px;
         }
-            .team__card__title__name {
+            .recenze__card__title__name {
                 text-align: left;
                 font-family: "Fira Sans" , sans serif;
                 font-size: 25px;
@@ -63,20 +64,20 @@
                 margin: 0;
 
             }
-            .team__card__title__nickname {
+            .recenze__card__title__nickname {
                 text-align: left;
                 font-family: "Fira Sans" , sans serif;
                 font-size: 22px;
                 color: #888;
                 margin-bottom: 0.5em;
             }
-            .team__card__title__town {
+            .recenze__card__title__town {
                 text-align: left;
                 font-family: "Fira Sans" , sans serif;
                 font-size: 18px;
                 color: #909090;
             }
-        .team__card__details-button {
+        .recenze__card__details-button {
             width: 50px;
             display: block;
             border: none;
@@ -87,20 +88,20 @@
             padding: 0;
             cursor: pointer;
         }
-            .team__card__details-button:hover {
+            .recenze__card__details-button:hover {
                 background: #C5C5C5;
             }
-            .team__card__details-button:focus {
+            .recenze__card__details-button:focus {
                 outline: none;
                 background: #EAEAEA;
             }
-        .team__card__body {
+        .recenze__card__body {
             display: none;
             padding: 20px;
             background: #62929E;
             border-top: 1px solid #A5A5A5;
         }
-            .team__card__body h3 {
+            .recenze__card__body h3 {
                 margin: 0;
                 padding: 0;
                 font-family: "Fira Sans" , sans serif;
@@ -108,7 +109,7 @@
                 color: #FDFDFF;
                 margin-top: 10px;
             }
-            .team__card__body p {
+            .recenze__card__body p {
                 margin: 0;
                 padding: 0;
                 text-align: left;
@@ -116,12 +117,12 @@
                 font-size: 16px;
                 color: #FDFDFF;
             }
-            .team__card__body ul {
+            .recenze__card__body ul {
                 margin: 0;
                 list-style: none;
                 padding-left: 1em;
             }
-            .team__card__body li {
+            .recenze__card__body li {
                 margin: 0;
                 font-family: "Fira Sans" , sans serif;
                 font-weight: 300;
@@ -129,6 +130,6 @@
                 color: #FDFDFF;
                 margin: 5px;
             }
-            .team__card__body li:before {
+            .recenze__card__body li:before {
                 content: "- ";
             }
