@@ -56,7 +56,7 @@ return [
 
         "likes" => "",
         "meet" => "Já budu přesně tam, kde budu potřeba.",
-        "about" => "Ahoj, momentálně jsem studentem maturitního ročníku na gymnáziu. Mezi mé koníčky patří, basketball, natáčení a stříhání videí(jo jestli chceš podívej se na youtube) a taky občas programuju (např. tyto webovky). Ne nedělám si reklamu nene, to se ti jen zdá... :D Skautování je něco člověku hodně dá a proto jsem rád že vznikl tento kurz. ",
+        "about" => "Ahoj, momentálně jsem studentem maturitního ročníku na gymnáziu. Mezi mé koníčky patří, basketball, natáčení a stříhání videí(jo jestli chceš podívej se na youtube) a taky občas programuju (např. tyto webovky). Ne nedělám si reklamu nene, to se ti jen zdá... :D Skautování je něco co člověku hodně dá a proto jsem rád že vznikl tento kurz. ",
         "education" => [
             "ČK Tokaheya (2014)"
         ],

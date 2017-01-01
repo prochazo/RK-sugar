@@ -41,7 +41,7 @@ return [
         "first" => "Chtěl bych všem instruktorům vzkázat: 
             Děkuji za nejlepší konec léta s inspirativním programem a novými zážitky.
             Pro kuchyň: Jídlo bylo vždy super a chutnalo nám.
-            Ondro: Díky za to, že jsem mohl vidět rituály kolem africké sauny
+            Ondro: Díky za to, že jsem mohl vidět rituály kolem indiánské sauny
             Šímo: Díky za ochotu, a skvělou komunikaci před kurzem 
             Paťa: Skvělé vedení kurzu díky!
             Lukáši a Danku: Skvělá zpětná vazba díky!

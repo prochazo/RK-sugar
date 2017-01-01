@@ -2,7 +2,7 @@
 <html lang="cz">
 <head>
     <meta charset="UTF-8">
-    <title>RK Cukříček</title>
+    <title>Rádcovský kurz - Cukříček</title>
     <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="assets/icomoon.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
@@ -27,7 +27,7 @@
     <section id="sec1">
         <div class="wrapper">  
 
-            <h1 id="rocnik">Rádcovský kurz Cukříček</h1>
+            <h1 id="rocnik">Rádcovský kurz - Cukříček</h1>
 
             <div class="grid">
                 <div class="grid__item">
@@ -60,6 +60,48 @@
     </section>
     
     <?php include __DIR__ . "/parts/index/tym.php"; ?>
+
+    <!-- 
+    Sekce s obrázky bývalých instruktorů
+    -->
+    <section id="noteam">
+        <div class="wrapper">
+            <h1 class="noteam__title">A další...</h1>
+            <div class="noteam__wrapper">
+                <div class="noteam__card__wraper">
+                    <div class="noteam__card__img">
+                        <img src="assets/tym/Ferda_externiste.jpg">
+                    </div>
+                    <p>Ferda</p>
+
+                </div>
+                <div class="noteam__card__wraper">
+                    <div class="noteam__card__img">
+                        <img src="assets/tym/Handa_externiste.jpg">
+                    </div>
+                    <p>Hanďa</p>
+                </div>
+                <div class="noteam__card__wraper">
+                    <div class="noteam__card__img">
+                        <img src="assets/tym/Lukas_externiste.jpg">
+                    </div>
+                    <p>Lukáš</p>
+                </div>
+                <div class="noteam__card__wraper">
+                    <div class="noteam__card__img">
+                        <img src="assets/tym/Simba_externisti.jpg">
+                    </div>
+                    <p>Simba</p>
+                </div>
+                <div class="noteam__card__wraper">
+                    <div class="noteam__card__img">
+                        <img src="assets/tym/Vodicka_externisti.jpg">
+                    </div>
+                    <p>Vodička</p>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section id="sec4">
         

@@ -140,6 +140,61 @@ table {
         font-size: 16px;
 
     }
+/* noteam pro fotky bývalých instruktorů*/
+#noteam {
+    background-color: #EEEEEE;
+    margin: 0;
+    padding: 0;
+}
+.noteam__wrapper {
+        display: flex;
+        flex-wrap: wrap;
+        padding-bottom: 30px; 
+        }
+        .noteam__title {
+        padding: 50px 0;
+        font-size: 40px;
+        margin: 0;
+        color: black;
+        }
+
+        .noteam__card__wraper {
+            width: 20%;
+            margin: 0px;
+            box-sizing: border-box;
+            padding: 10px;
+        }
+
+
+           
+            
+        .noteam__card__img {
+
+            position: relative;
+            width: 150px;
+            height: 150px;
+            margin: 10px;
+            background: #444;
+            border-radius: 50%;
+            overflow: hidden;
+            -webkit-filter: grayscale(100%);
+            filter: grayscale(100%);
+            -webkit-transition: .3s ease-in-out;
+            transition: .3s ease-in-out;
+        }
+            .noteam__card__img img {
+                margin: 0;
+                position: absolute;
+                top: 0%;
+                left: 0%;
+                width: 100%;
+                height: 100%; 
+            }   
+
+            .noteam__card__img:hover {
+                -webkit-filter: grayscale(0);
+                filter: grayscale(0);
+            }
     
 .font {
     font-size: 0;

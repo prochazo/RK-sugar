@@ -65,20 +65,6 @@ $teamMembers = require __DIR__ . "/../../data/tym.php";
                 </div>
             <?php endforeach; ?>
 
-        </div>
-
-
-
-
-
-
-
-
-        <!--
-            Starý kód, v budoucnu odstranit! -- už jsem ho odstranil!!!!
-        -->
-
-        
-
+        </div>     
     </div>
 </section>
