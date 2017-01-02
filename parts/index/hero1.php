@@ -1,1 +1,1 @@
-<section id="sec2"></section>
+<section class="hero1"></section>

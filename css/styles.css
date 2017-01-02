@@ -2,38 +2,6 @@ body {
     margin: 0;
 }
 
-h1 {
-    text-align: center;
-    font-family: "Fira Sans" , sans serif;
-    font-weight: 400;
-    margin: 10px;
-}
-
-h2 {
-    text-align: center;
-    font-family: "Fira Sans" , sans serif;
-    font-weight: 400;
-}
-
-p {
-    text-align: center;
-    font-family: "Fira Sans" , sans serif;
-    font-weight: 300;
-    margin: 10px;
-
-}
-
-table {
-    text-align: center;
-    border-color: red;
-
-} 
-
-.wrapper {
-    width: 1000px;
-    margin: 0 auto;
-}
-
 /*////////////
 // Navigace //
 ////////////*/
@@ -47,145 +15,74 @@ table {
     z-index: 100;
 }
 
-    .navigation__content {
-        display: flex;
-        width: 1000px;
-        height: 88px;
-        margin: 0 auto;
+.navigation__content {
+    display: flex;
+    width: 1000px;
+    height: 88px;
+    margin: 0 auto;
 
-        align-items: flex-end;
-    }
-
-    .navigation__item {
-        display: block;
-        flex: 1;
-        position: relative;
-        padding: 28px 10px;
-        margin: 0;
-
-        color: rgba(255, 255, 255, 0.7);
-        font-size: 24px;
-        text-align: center;
-        font-family: "Segoe UI", sans-serif;
-        font-weight: 200;
-        text-decoration: none;
-        white-space: nowrap;
-
-        cursor: pointer;
-    }
-
-        .navigation__item:hover {
-            background: #75274e;
-        }
-
-        .navigation__item--active:after {
-            content: "";
-            display: block;
-            position: absolute;
-            bottom: 0;
-            left: 0;
-            width: 100%;
-            height: 8px;
-
-            background-color: #581939;
-        }
-
-    .navigation__picture {
-        display: flex;
-        flex: 1;
-        padding: 0;
-        margin: 0;
-
-        align-self: stretch;
-        align-items: center;
-    }
-
-        .navigation__picture > img {
-            /* roztáhnout v divu */
-            max-width: 100%;
-            max-height: 100%;
-        }
-
-        .navigation__picture--left {
-            margin-right: 30px;
-        }
-
-            .navigation__picture--left > img {
-                box-sizing: border-box;
-                padding: 10px;
-            }
-
-        .navigation__picture--right {
-            margin-left: 0px;
-        }
-
-/*////////
-// Grid //
-////////*/
-
-.grid {
-    font-size: 0;
+    align-items: flex-end;
 }
 
-    .grid__item {
-        display: inline-block; 
-        padding: 20px;
-        width: 50%;
-        margin: 0;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box;
-        vertical-align: top;
-
-        font-size: 16px;
-
-    }
-
-
-/* noteam pro fotky bývalých instruktorů*/
-#noteam {
-    background-color: #EEEEEE;
+.navigation__item {
+    display: block;
+    flex: 1;
+    position: relative;
+    padding: 28px 10px;
     margin: 0;
-    padding: 0;
+
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 24px;
+    text-align: center;
+    font-family: "Segoe UI", sans-serif;
+    font-weight: 200;
+    text-decoration: none;
+    white-space: nowrap;
+
+    cursor: pointer;
 }
-.noteam__wrapper {
-        display: flex;
-        flex-wrap: wrap;
-        padding-bottom: 30px; 
-        }
-        .noteam__title {
-        padding: 50px 0;
-        font-size: 40px;
-        margin: 0;
-        color: black;
-        }
 
-        .noteam__card__wraper {
-            width: 20%;
-            margin: 0px;
-            box-sizing: border-box;
-            padding: 10px;
-        }
+.navigation__item:hover {
+    background: #75274e;
+}
 
+.navigation__item--active:after {
+    content: "";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 8px;
 
-           
-            
-        .noteam__card__img {
+    background-color: #581939;
+}
 
-            position: relative;
-            width: 150px;
-            height: 150px;
-            margin: 10px;
-            background: #444;
-            border-radius: 50%;
-            overflow: hidden;
-         
-        }
-            .noteam__card__img img {
-                margin: 0;
-                position: absolute;
-                top: 0%;
-                left: 0%;
-                width: 100%;
-                height: 100%; 
-            }
+.navigation__picture {
+    display: flex;
+    flex: 1;
+    padding: 0;
+    margin: 0;
+
+    align-self: stretch;
+    align-items: center;
+}
+
+.navigation__picture > img {
+    /* roztáhnout v divu */
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.navigation__picture--left {
+    margin-right: 30px;
+}
+
+.navigation__picture--left > img {
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.navigation__picture--right {
+    margin-left: 0px;
+}

@@ -25,18 +25,18 @@ $people = [
 
 ?>
 
-<section id="noteam">
-    <div class="wrapper">
-        <h1 class="noteam__title">A další...</h1>
-        <div class="noteam__wrapper">
-            <?php foreach ($people as $person): ?>
-                <div class="noteam__card__wraper">
-                    <div class="noteam__card__img">
-                        <img src="assets/tym/<?php echo $person["image"] ?>">
-                    </div>
-                    <p><?php echo $person["name"] ?></p>
+<section class="externiste">
+    <h1 class="externiste__title">A další...</h1>
+    <div class="externiste__wrapper">
+
+        <?php foreach ($people as $person): ?>
+            <div class="externiste__item">
+                <div class="externiste__img">
+                    <img src="assets/tym/<?php echo $person["image"] ?>">
                 </div>
-            <?php endforeach; ?>
-        </div>
+                <p class="externiste__name"><?php echo $person["name"] ?></p>
+            </div>
+        <?php endforeach; ?>
+
     </div>
 </section>

@@ -9,9 +9,6 @@
     <link rel="stylesheet" type="text/css" href="assets/icomoon.css">
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link rel="stylesheet" type="text/css" href="css/index.css">
-
-    
-    <link rel="stylesheet" type="text/css" href="css/team.css">
 </head>
 <body>
     

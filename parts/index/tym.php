@@ -6,7 +6,7 @@ $teamMembers = require __DIR__ . "/../../data/tym.php";
 ?>
 
 <section class="team">
-    <div class="wrapper">
+    <div class="team__container">
         <h1 class="team__title">Náš tým</h1>
         <div class="team__wrapper">
 

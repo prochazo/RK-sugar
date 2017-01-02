@@ -1,3 +1,7 @@
+//////////
+// Team //
+//////////
+
 +function()
 {
     var cards = $(".team__card");

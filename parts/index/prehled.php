@@ -22,16 +22,16 @@ $tiles = [
 ?>
 
 
-<section id="prehled">
-    <div class="wrapper">
+<section class="prehled">
+    <div class="prehled__wrapper">
 
-        <h1 id="rocnik">Rádcovský kurz - Cukříček</h1>
+        <h1 class="prehled__title">Rádcovský kurz - Cukříček</h1>
 
-        <div class="grid">
+        <div class="prehled__grid">
             <?php foreach ($tiles as $tile): ?>
-                <div class="grid__item">
-                    <h2><?php echo $tile["title"]; ?></h2>
-                    <p><?php echo $tile["content"]; ?></p>
+                <div class="prehled__item">
+                    <h2 class="prehled__item__title"><?php echo $tile["title"]; ?></h2>
+                    <p class="prehled__item__content"><?php echo $tile["content"]; ?></p>
                 </div>
             <?php endforeach; ?>
         </div>
