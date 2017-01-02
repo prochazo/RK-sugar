@@ -1,3 +1,7 @@
+/*///////////
+// Landing //
+///////////*/
+
 .landing {
     min-height: 50vh;
     display: flex;
@@ -29,25 +33,32 @@
             color: #555;
         }
 
+/*///////////
+// Prehled //
+///////////*/
 
-#sec1 {
+#prehled {
     background: #EEEEEE;
     padding: 100px 0;
 }
 
-    #sec1 h1 {
+    #prehled h1 {
         color: black;
         font-size: 40px;
     }
-    #sec1 h2 {
+    #prehled h2 {
         color: black;
         font-size: 24px;
     }
 
-    #sec1 p {
+    #prehled p {
         color: black;
         font-size: 18px;
     }
+
+/*//////////
+// Hero 1 //
+//////////*/
 
 #sec2 {
     height: 300px;

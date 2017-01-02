@@ -1,7 +1,10 @@
-<html>
+<!DOCTYPE html>
+<html lang="cz">
 <head>
-	<title>Kontakty</title>
-	<meta charset="utf-8">
+	<meta charset="UTF-8">
+
+	<title>Kontakty - Rádcovský kurz Cukříček</title>
+
 	<link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="css/styles.css">
     <link rel="stylesheet" type="text/css" href="css/kontakty.css">

@@ -1,8 +1,11 @@
-<html>
+<!DOCTYPE html>
+<html lang="cz">
 <head>
-	<title>Recenze</title>
-	<meta CHARSET="UTF-8">
-	<link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <meta charset="UTF-8">
+
+    <title>Recenze - Rádcovský kurz Cukříček</title>
+
+    <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,300&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
     <link rel="stylesheet" type="text/css" href="css/index.css">
     <link rel="stylesheet" type="text/css" href="css/recenze.css">
@@ -16,11 +19,10 @@
     ?>
 
     <?php include __DIR__ . "/parts/recenze.php"; ?>
-	
-    <script src="js/jquery.min.js"></script>
-    <script src="js/recenze.js"></script>
 
     <?php include __DIR__ . "/parts/analytics.php"; ?>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/recenze.js"></script>
 
 </body>
 </html>

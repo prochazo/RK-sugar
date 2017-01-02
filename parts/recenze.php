@@ -1,7 +1,7 @@
 <?php
 
 // načíst data
-$teamMembers = require __DIR__ . "/../data/recenze.php";
+$people = require __DIR__ . "/../data/recenze.php";
 
 ?>
 
@@ -9,22 +9,22 @@ $teamMembers = require __DIR__ . "/../data/recenze.php";
     <div class="wrapper">
         <div class="recenze__wrapper">
 
-            <?php foreach ($teamMembers as $member): ?>
+            <?php foreach ($people as $person): ?>
                 <div class="recenze__card__wraper">
                     <div class="recenze__card">
                         <div class="recenze__card__head">
                             <div class="recenze__card__img">
-                                <img src="assets/tym/<?php echo $member["img"]; ?>">
+                                <img src="assets/tym/<?php echo $person["img"]; ?>">
                             </div>
                             <div class="recenze__card__title">
                                 <h2 class="recenze__card__title__name">
-                                    <?php echo $member["name"]; ?>
+                                    <?php echo $person["name"]; ?>
                                 </h2>
                                 <div class="recenze__card__title__nickname">
-                                    <?php echo $member["nickname"]; ?>
+                                    <?php echo $person["nickname"]; ?>
                                 </div>
                                 <div class="recenze__card__title__town">
-                                    <?php echo $member["first"]; ?>
+                                    <?php echo $person["first"]; ?>
                                 </div>
                             </div>
                             <!--
@@ -35,7 +35,7 @@ $teamMembers = require __DIR__ . "/../data/recenze.php";
                         </div>
                         <div class="recenze__card__body">
                         
-                            <p><?php echo $member["body"]; ?></p>
+                            <p><?php echo $person["body"]; ?></p>
 
                             
                         </div>
