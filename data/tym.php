@@ -135,7 +135,7 @@ return [
 
         "likes" => "",
         "meet" => "Hlavně v kuchyni, občas na nějakém programu a možná i na malé přednášce. ",
-        "about" => "Ahoj všichni! Jsem Mája a svůj volný čas nejraději trávím u nějakého hudebního nástroje. Do našeho oddílu na Dobříši  chodím teď sedmým rokem a momentálně vedu družinku skautek.:) Mám také ráda pečení dobrých věcí a organizaci různých akcí s dětmi. Jen tak mimochodem jsem se Sylvou absolventka 1. ročníku!",
+        "about" => "Ahoj všichni! Jsem Mája a svůj volný čas nejraději trávím u nějakého hudebního nástroje. Do našeho oddílu na Dobříši  chodím teď sedmým rokem a momentálně vedu družinku skautek.:) Mám také ráda pečení dobrých věcí a organizaci různých akcí s dětmi. Jen tak mimochodem jsem se Sylvou a Luckou absolventky 1. ročníku!",
         "education" => [
         "2015 RK Cukříček",
         ],
